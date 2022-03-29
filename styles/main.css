@@ -4,3 +4,9 @@
   justify-content: center;
   align-items: center;
 }
+.winer {
+  display: none;
+}
+.loser {
+  display: none;
+}
